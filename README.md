@@ -1,4 +1,5 @@
-# aula3
+# App Utilizando API TMDB
+![TMDB](https://user-images.githubusercontent.com/98062365/154690449-7603c832-eed0-4849-bdf1-9c6629980546.gif)
 
 A new Flutter project.
 
