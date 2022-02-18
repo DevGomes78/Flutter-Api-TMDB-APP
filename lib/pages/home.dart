@@ -58,13 +58,7 @@ class _HomePageState extends State<HomePage> {
           child: Column(
             children: [
               TV(tv: tv),
-              const SizedBox(
-                height: 5,
-              ),
               BuildButton(),
-              const SizedBox(
-                height: 5,
-              ),
               TopRated(toprated: topratedmovies),
               TrendingMovies(
                 trending: trendingmovies,
